@@ -3,7 +3,7 @@
 
 using System;
 
-namespace HBTDetector
+namespace ROMDetector
 {
     class Logger
     {

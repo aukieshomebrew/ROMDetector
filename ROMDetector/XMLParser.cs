@@ -4,7 +4,7 @@
 using System.Xml.Linq;
 using System.Collections.Generic;
 
-namespace HBTDetector
+namespace ROMDetector
 {
     class XMLParser
     {

@@ -4,7 +4,7 @@
 using System.IO;
 using System.Text;
 
-namespace HBTDetector
+namespace ROMDetector
 {
     class ROMDetector
     {
@@ -44,7 +44,6 @@ namespace HBTDetector
             }
 
 
-            System.Console.ReadKey();
             
             return 0;
         }
