@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <games>
-  <game name="Pokemon FireRed"    code="BPRE"/>
-  <game name="Pokemon LeafGreen"  code="BPGE"/>
-  <game name="Pokemon Ruby"       code="AXVE"/>
-  <game name="Pokemon Sapphire"   code="AXPE"/>
+  <game name="Pokemon FireRed (US)"    code="BPRE"/>
+  <game name="Pokemon LeafGreen (US)"  code="BPGE"/>
+  <game name="Pokemon Ruby (US)"       code="AXVE"/>
+  <game name="Pokemon Sapphire (US)"   code="AXPE"/>
+  <game name="Pokemon Emerald (US)"   code="BPEE"/>
 </games>
